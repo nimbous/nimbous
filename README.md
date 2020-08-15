@@ -1,6 +1,8 @@
 # Nimbous.co website content
 Nimbous Ltd is a London based data analytics company specialised in machine learning modelling, natural language processing, data engineering and cloud computing. This repository hosts the content of [nimbous.co](https://www.nimbous.co/) website.
 
+</br>
+
 ## Homepage
 
 ### Hero section
@@ -37,13 +39,17 @@ Nimbous Ltd is a London based data analytics company specialised in machine lear
   - Contact us banner text: `We want your organisation to focus on your core values and your core business. We help you leverage artificial intelligence and data science to explore data for previously undiscovered value`
 - Link to `Contact us` page: `CONTACT US`
   
+</br>
 
 ## What we do
 #### TODO: What we do page
 
+</br>
 
-## TODO: Technology
+## Technology
 #### TODO: What we do page
+
+</br>
 
 ## Values
 - Hero section title: `Values that defines us`
@@ -55,6 +61,7 @@ Nimbous Ltd is a London based data analytics company specialised in machine lear
 - Section 4 title: `Simplicity and being proud`
   - Section 4 text: `We aim to do the right thing rather than what is fashionable or popular. We grow our business in a way that makes us proud. We also believe simple is more. Presenting big findings in simple and understandable terms is also very crucial.`
   
+</br>
 
 ## Contact
 - Hero section title: `How can we help?`
@@ -64,10 +71,14 @@ Nimbous Ltd is a London based data analytics company specialised in machine lear
   - Address
   - Facebook messenger
   
+</br>
+
 ## Footer
 - Company registration information: `Nimbous is registered in the UK as Nimbous Ltd (No.11614765), 86-90 Paul Street London United Kingdom, EC2A 4NE.`
 - Links to page: [Home](https://www.nimbous.co/) | [What we do](https://www.nimbous.co/what-we-do/) | [Technology](https://www.nimbous.co/technology/) | [Values](https://www.nimbous.co/values/) | [Contact](https://www.nimbous.co/contact/) | [Privacy](https://www.nimbous.co/privacy-policy/)
 - Links to social media accounts: [Twitter](https://twitter.com/nimbousco) | [Facebook](https://fb.me/nimbous.co) | [Linkedin](https://www.linkedin.com/company/nimbous/) | [Contact Form](https://www.nimbous.co/contact/#message)
+
+</br>
 
 ## Privacy Policy
 Read more about [privacy policy content here](PRIVACY-POLICY.md).
