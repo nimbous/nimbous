@@ -69,3 +69,6 @@ Nimbous Ltd is a London based data analytics company specialised in machine lear
 - Links to page: [Home](https://www.nimbous.co/) | [What we do](https://www.nimbous.co/what-we-do/) | [Technology](https://www.nimbous.co/technology/) | [Values](https://www.nimbous.co/values/) | [Contact](https://www.nimbous.co/contact/) | [Privacy](https://www.nimbous.co/privacy-policy/)
 - Links to social media accounts: [Twitter](https://twitter.com/nimbousco) | [Facebook](https://fb.me/nimbous.co) | [Linkedin](https://www.linkedin.com/company/nimbous/) | [Contact Form](https://www.nimbous.co/contact/#message)
 
+## Privacy Policy
+Read more about [privacy policy content here](PRIVACY-POLICY.md).
+
